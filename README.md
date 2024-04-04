@@ -10,12 +10,14 @@ Some preprocessing:
 
 
 Using the following input parameters:
-![input](https://github.com/2d1ff1cult/bulkhead-shockload/assets/48054365/ab66ec11-8835-4064-bc06-f3e5ebcaf92a)
+![input](https://github.com/2d1ff1cult/bulkhead-shockload/assets/48054365/9609f61f-a00c-47f4-b05e-d20e73caf4d1)
+
 
 I was able to calculate the maximum shock load imparted onto the rocket's bulkhead:
-![output](https://github.com/2d1ff1cult/bulkhead-shockload/assets/48054365/d5a17977-79ac-418e-82fc-8bf70479250f)
+![output](https://github.com/2d1ff1cult/bulkhead-shockload/assets/48054365/77390de3-cd4c-4212-8e83-03569a4f8a85)
+
 
 Below shows FEA analysis at 1500 lbs, showing little to no yielding:
 ![Sim_Bulkhead_1460lb](https://github.com/2d1ff1cult/bulkhead-shockload/assets/48054365/36725705-ed70-4ad8-a74d-23855c0d4364)
 
-This collaboration validated through simulation that the bulkhead was sufficiently designed to withstand the shock forces experienced during main parachute deployment.
+**This collaboration validated through simulation that the bulkhead was sufficiently designed to withstand the shock forces experienced during main parachute deployment.**
