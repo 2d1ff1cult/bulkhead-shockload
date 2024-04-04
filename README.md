@@ -1,6 +1,8 @@
 # bulkhead-shockload
 Code translated from FORTRAN66 to C to calculate parachute shock loads. For use with UNLV SEDS' Spaceport America Cup 10K COTS rocket.
 
+Validated through simulation that the bulkhead was sufficiently designed to withstand the shock forces experienced during main parachute deployment.
+
 Results were used to validate FEA analysis performed by a team member.
 
 Used Google Gemini and OpenAI ChatGPT-3 to translate program. Using input values from a Naval Surface Warfare Center (NSWC) whitepaper, the output was validated by checking if results from the translated program matched the document.
@@ -19,5 +21,3 @@ I was able to calculate the maximum shock load imparted onto the rocket's bulkhe
 
 Below shows FEA analysis at 1500 lbs, showing little to no yielding:
 ![Sim_Bulkhead_1460lb](https://github.com/2d1ff1cult/bulkhead-shockload/assets/48054365/36725705-ed70-4ad8-a74d-23855c0d4364)
-
-**This collaboration validated through simulation that the bulkhead was sufficiently designed to withstand the shock forces experienced during main parachute deployment.**
